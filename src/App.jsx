@@ -57,7 +57,7 @@ console.log(todos)
 
   return (
     // <h1>Hi this is a man working to improve development skills</h1>
-    <main className="h-screen">
+    <main className="h-screen ">
       {/* <h1 className="text-3xl font-bold underline">
       Hello world!
     </h1> */}
